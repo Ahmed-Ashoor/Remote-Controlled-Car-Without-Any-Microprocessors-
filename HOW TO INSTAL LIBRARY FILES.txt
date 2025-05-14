@@ -1,0 +1,3 @@
+Copy the LIBRARY files and paste it in your proteus library program files 
+
+and Copy the MODELS files and paste it in your proteus models program files 
